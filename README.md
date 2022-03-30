@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @opeyemi84
-- 👀 I’m interested in Fullstack web development with JavaScript
+- 👀 I am a Fullstack web development with JavaScript as my core programming language
 - 🌱 I’m currently learning Node.Js
 - 💞️ I’m looking to collaborate on Fullstack software development projects
 - 📫 How to reach me opeadetola@gmail.com
